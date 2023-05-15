@@ -1,0 +1,47 @@
+[
+  {
+    "customerId": "123",
+    "purchaseAmount": 150.0,
+    "transactionDate": "2023-05-01"
+  },
+  {
+    "customerId": "123",
+    "purchaseAmount": 75.0,
+    "transactionDate": "2023-05-02"
+  },
+  {
+    "customerId": "123",
+    "purchaseAmount": 20.0,
+    "transactionDate": "2023-05-03"
+  },
+  {
+    "customerId": "456",
+    "purchaseAmount": 75.0,
+    "transactionDate": "2023-05-02"
+  },
+  {
+    "customerId": "456",
+    "purchaseAmount": 75.0,
+    "transactionDate": "2023-06-02"
+  },
+  {
+    "customerId": "789",
+    "purchaseAmount": 300.0,
+    "transactionDate": "2023-06-02"
+  },
+  {
+    "customerId": "123",
+    "purchaseAmount": 75.0,
+    "transactionDate": "2023-06-02"
+  },
+  {
+    "customerId": "123",
+    "purchaseAmount": 200.0,
+    "transactionDate": "2023-04-02"
+  },
+  {
+    "customerId": "123",
+    "purchaseAmount": 80.0,
+    "transactionDate": "2023-04-15"
+  }
+]

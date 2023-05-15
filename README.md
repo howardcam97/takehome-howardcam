@@ -34,8 +34,7 @@ Example Request Body:
     "customerId": "456",
     "purchaseAmount": 75.0,
     "transactionDate": "2023-05-02"
-  },
-  ...
+  }
 ]
 ```
 
